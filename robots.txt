@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://suphelet.github.io/sitemap.html.gz
+Sitemap: https://suphelet.github.io/app/sitemap.html.gz
+Sitemap: https://suphelet.github.io/assets/sitemap.html.gz
+Sitemap: https://suphelet.github.io/css/sitemap.html.gz
+Sitemap: https://suphelet.github.io/includes/sitemap.html.gz
+Sitemap: https://suphelet.github.io/item/sitemap.html.gz
+Sitemap: https://suphelet.github.io/src/sitemap.html.gz
